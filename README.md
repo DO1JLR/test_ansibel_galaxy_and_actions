@@ -1,3 +1,5 @@
+[![MIT License](https://raw.githubusercontent.com/do1jlr/test_ansibel_galaxy_and_actions/master/.github/license.svg?sanitize=true)](https://github.com/do1jlr/test_ansibel_galaxy_and_actions/blob/master/LICENSE)
+
 # test_ansibel_galaxy_and_actions
 Here I will run some tests with ansible-galaxy and github-actions.
 

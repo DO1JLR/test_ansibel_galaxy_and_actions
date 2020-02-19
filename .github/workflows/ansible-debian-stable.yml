@@ -13,7 +13,7 @@ jobs:
 
     - name: ansible check with debian:stable
       # replace "master" with any valid ref
-      uses: roles-ansible/check-ansible-debian-stable-action@master
+      uses: roles-ansible/check-ansible-debian-stable-action@playbook
       with:
         targets: "site.yml"
         # [required]
@@ -23,3 +23,4 @@ jobs:
         # targets: "site.yml"
         group: 'local'
         hosts: 'localhost'
+        requirements: 'requirements.yml'
