@@ -1,4 +1,16 @@
 ---
 - hosts: localhost
   roles:
-  - do1jlr.ranger
+    - do1jlr.akku_warning
+    - do1jlr.ansible_version
+    - do1jlr.dotfiles
+    - do1jlr.i3wm
+    - do1jlr.no_sleep
+    - do1jlr.ntp
+    - do1jlr.ranger
+    - do1jlr.role_firefox_installation
+    - do1jlr.role_install_workstaton_packages
+    - do1jlr.role_pulseaudio_archlinux
+    - do1jlr.role_sshd
+    - do1jlr.role_sshfs
+    - do1jlr.xrandr_help

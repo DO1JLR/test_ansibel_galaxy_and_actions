@@ -1,3 +1,15 @@
 ---
 # from galaxy
+- src: do1jlr.akku_warning
+- src: do1jlr.ansible_version
+- src: do1jlr.dotfiles
+- src: do1jlr.i3wm
+- src: do1jlr.no_sleep
+- src: do1jlr.ntp
 - src: do1jlr.ranger
+- src: do1jlr.role_firefox_installation
+- src: do1jlr.role_install_workstaton_packages
+- src: do1jlr.role_pulseaudio_archlinux
+- src: do1jlr.role_sshd
+- src: do1jlr.role_sshfs
+- src: do1jlr.xrandr_help
