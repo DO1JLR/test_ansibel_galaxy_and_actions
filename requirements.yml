@@ -2,6 +2,7 @@
 # from galaxy
 - src: do1jlr.akku_warning
 - src: do1jlr.ansible_version
+- src: do1jlr.bat
 - src: do1jlr.dotfiles
 - src: do1jlr.i3wm
 - src: do1jlr.no_sleep

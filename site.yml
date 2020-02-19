@@ -3,6 +3,7 @@
   roles:
     - do1jlr.akku_warning
     - do1jlr.ansible_version
+    - do1jlr.bat
     - do1jlr.dotfiles
     - do1jlr.i3wm
     - do1jlr.no_sleep
