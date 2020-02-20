@@ -14,3 +14,4 @@
 - src: do1jlr.role_sshd
 - src: do1jlr.role_sshfs
 - src: do1jlr.xrandr_help
+- src: do1jlr.epel
