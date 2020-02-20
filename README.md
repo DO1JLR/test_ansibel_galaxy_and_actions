@@ -4,6 +4,7 @@
 ![Ansible check debian:buster](https://github.com/DO1JLR/test_ansibel_galaxy_and_actions/workflows/Ansible%20check%20debian:buster/badge.svg)
 ![Ansible check debian:stretch](https://github.com/DO1JLR/test_ansibel_galaxy_and_actions/workflows/Ansible%20check%20debian:stretch/badge.svg)
 ![Ansible check debian:jessie](https://github.com/DO1JLR/test_ansibel_galaxy_and_actions/workflows/Ansible%20check%20debian:jessie/badge.svg)
+![Ansible check ubuntu:latest](https://github.com/DO1JLR/test_ansibel_galaxy_and_actions/workflows/Ansible%20check%20ubuntu:latest/badge.svg)
 
 # test_ansibel_galaxy_and_actions
 Here I will run some tests with ansible-galaxy and github-actions.
