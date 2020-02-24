@@ -1,7 +1,7 @@
 ---
 - hosts: localhost
   roles:
-    - do1jlr.akku_warning # cronie missing
+#    - do1jlr.akku_warning # cronie missing
     - do1jlr.ansible_version
     - do1jlr.bat
 #   - do1jlr.dotfiles # except user is root
