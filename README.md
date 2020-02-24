@@ -7,7 +7,7 @@
 | DEBIAN | ![Ansible check debian:jessie](https://github.com/DO1JLR/test_ansibel_galaxy_and_actions/workflows/Ansible%20check%20debian:jessie/badge.svg) |
 | UBUNTU | ![Ansible check ubuntu:latest](https://github.com/DO1JLR/test_ansibel_galaxy_and_actions/workflows/Ansible%20check%20ubuntu:latest/badge.svg) |
 
-# test_ansibel_galaxy_and_actions
+# test_ansible_galaxy_and_actions
 Here I will run some tests with ansible-galaxy and github-actions.
 
  What do I do here?
