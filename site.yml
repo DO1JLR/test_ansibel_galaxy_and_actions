@@ -14,5 +14,5 @@
 #   - do1jlr.role_pulseaudio_archlinux
 #    - do1jlr.role_sshd -> user mngmt should be fixed!!!
 #    - do1jlr.role_sshfs
-    - do1jlr.xrandr_help
+#    - do1jlr.xrandr_help
 #     - do1jlr.epel
