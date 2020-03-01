@@ -7,7 +7,7 @@
 #   - do1jlr.dotfiles # except user is root
 #    - do1jlr.i3wm
 #   - do1jlr.no_sleep # stderr: 'xset:  unable to open display ""'
-    - do1jlr.ntp
+#    - do1jlr.ntp
     - do1jlr.ranger
     - do1jlr.role_firefox_installation
 #   - do1jlr.role_install_workstaton_packages # broken :-/
